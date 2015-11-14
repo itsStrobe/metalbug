@@ -9,6 +9,7 @@
     <sound>sound\gunshot</sound>
     <sound>sound\snd_zombie_die</sound>
     <sound>sound\intro_theme</sound>
+    <sound>sound\bobby_taunt</sound>
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\bobby_stand</sprite>

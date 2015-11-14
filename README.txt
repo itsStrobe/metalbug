@@ -6,3 +6,7 @@ y cuando hagan el commit.
 
 2do Log -- Gallo
 >Test
+
+3er Log -- Pepe
+>agregue sonido "bobby_taunt"
+>obj_bobby: evento q -> taunt
