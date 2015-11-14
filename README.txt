@@ -10,3 +10,8 @@ y cuando hagan el commit.
 3er Log -- Pepe
 >agregue sonido "bobby_taunt"
 >obj_bobby: evento q -> taunt
+
+3er Log -- Pepe
+>agregue 	sprites [goku/superman/darthvader/stone]
+		sonidos [stone]
+>obj_stone	evento	colision con "bobby" ->	sonido "snd_stone" y desaparecer
