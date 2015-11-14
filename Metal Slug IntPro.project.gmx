@@ -10,6 +10,7 @@
     <sound>sound\snd_zombie_die</sound>
     <sound>sound\intro_theme</sound>
     <sound>sound\bobby_taunt</sound>
+    <sound>sound\snd_stone</sound>
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\bobby_stand</sprite>
@@ -27,6 +28,10 @@
     <sprite>sprites\door_cls_anm</sprite>
     <sprite>sprites\door_cls</sprite>
     <sprite>sprites\sprite15</sprite>
+    <sprite>sprites\sprt_goku</sprite>
+    <sprite>sprites\sprt_superman</sprite>
+    <sprite>sprites\sprt_dv</sprite>
+    <sprite>sprites\stone</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\ciudad</background>
@@ -41,6 +46,7 @@
     <object>objects\obj_button_on</object>
     <object>objects\obj_door_open</object>
     <object>objects\obj_door_cls</object>
+    <object>objects\obj_stone</object>
   </objects>
   <timelines name="timelines">
     <timeline>timelines\tml_switch_stone</timeline>
