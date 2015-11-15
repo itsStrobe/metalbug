@@ -15,3 +15,9 @@ y cuando hagan el commit.
 >agregue 	sprites [goku/superman/darthvader/stone]
 		sonidos [stone]
 >obj_stone	evento	colision con "bobby" ->	sonido "snd_stone" y desaparecer
+
+4to Log -- Seiji
+>agregue objeto "floor_inv" y sprite de "invisible floor"
+>ajuste los sprites de bobby a un mismo tamaño (para, segun yo, evitar problemas)
+>separe el sprite "bobby_jump" en "bobby_jump" y "bobby_fall"
+>implemente algunas cosas en obj_bobby para agregar gravedad y brinco, pero todavia no jala bien.

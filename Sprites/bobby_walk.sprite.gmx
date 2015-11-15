@@ -2,15 +2,15 @@
 <sprite>
   <type>0</type>
   <xorig>43</xorig>
-  <yorigin>25</yorigin>
+  <yorigin>30</yorigin>
   <colkind>0</colkind>
   <coltolerance>0</coltolerance>
   <sepmasks>-1</sepmasks>
   <bboxmode>0</bboxmode>
   <bbox_left>0</bbox_left>
   <bbox_right>85</bbox_right>
-  <bbox_top>0</bbox_top>
-  <bbox_bottom>49</bbox_bottom>
+  <bbox_top>8</bbox_top>
+  <bbox_bottom>57</bbox_bottom>
   <HTile>0</HTile>
   <VTile>0</VTile>
   <TextureGroups>
@@ -18,7 +18,7 @@
   </TextureGroups>
   <For3D>0</For3D>
   <width>87</width>
-  <height>50</height>
+  <height>60</height>
   <frames>
     <frame index="0">images\bobby_walk_0.png</frame>
     <frame index="1">images\bobby_walk_1.png</frame>

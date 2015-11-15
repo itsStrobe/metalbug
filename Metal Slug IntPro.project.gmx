@@ -16,6 +16,7 @@
     <sprite>sprites\bobby_stand</sprite>
     <sprite>sprites\bobby_walk</sprite>
     <sprite>sprites\bobby_jump</sprite>
+    <sprite>sprites\bobby_fall</sprite>
     <sprite>sprites\bobby_shoot</sprite>
     <sprite>sprites\bobby_die</sprite>
     <sprite>sprites\zombie_stand</sprite>
@@ -32,6 +33,7 @@
     <sprite>sprites\sprt_superman</sprite>
     <sprite>sprites\sprt_dv</sprite>
     <sprite>sprites\stone</sprite>
+    <sprite>sprites\floor_inv</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\ciudad</background>
@@ -47,6 +49,7 @@
     <object>objects\obj_door_open</object>
     <object>objects\obj_door_cls</object>
     <object>objects\obj_stone</object>
+    <object>objects\obj_floor</object>
   </objects>
   <timelines name="timelines">
     <timeline>timelines\tml_switch_stone</timeline>
