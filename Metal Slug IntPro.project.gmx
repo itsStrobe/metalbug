@@ -11,6 +11,7 @@
     <sound>sound\intro_theme</sound>
     <sound>sound\bobby_taunt</sound>
     <sound>sound\snd_stone</sound>
+    <sound>sound\snd_zombie_scream</sound>
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\bobby_stand</sprite>
