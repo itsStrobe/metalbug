@@ -40,6 +40,9 @@
     <background>background\ciudad</background>
   </backgrounds>
   <paths name="paths"/>
+  <fonts name="fonts">
+    <font>fonts\Font</font>
+  </fonts>
   <objects name="objects">
     <object>objects\obj_bobby</object>
     <object>objects\obj_bullet</object>
@@ -51,6 +54,7 @@
     <object>objects\obj_door_cls</object>
     <object>objects\obj_stone</object>
     <object>objects\obj_floor</object>
+    <object>objects\obj_control</object>
   </objects>
   <timelines name="timelines">
     <timeline>timelines\tml_switch_stone</timeline>

@@ -25,3 +25,12 @@ y cuando hagan el commit.
 5to Log -- Seiji
 >agregue sprite "bobby_mask" y se le asigno al objeto "obj_bobby".
 >se corrigio problema de movimiento y gravedad en objeto bobby.
+
+6to Log -- Seiji (se me olvidó ponerlo la vez pasada)
+>estableci un tiempo definido para disparar (para que no pudiera disparar miles de balas por segundo).
+>se agrego la funcion de activar la animacion de disparar al momento de hacerlo.
+
+7to Log -- Seiji (Major Update)
+>Se configuro al objeto del enemigo, de manera que las diferentes instancias del objeto se acercan en la posicion adecuada a partir de que estan a cierta distancia de obj_bobby.
+>Se agregaron vidas, barra de salud y score al juego. Falta revisar bien estos detalles.
+>Se configuro colision de los enemigos con obj_bobby.
