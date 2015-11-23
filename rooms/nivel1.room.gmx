@@ -186,10 +186,9 @@
     <instance objName="obj_wall_zombie" x="4105" y="166" name="inst_98278C5D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_zombie" x="4140" y="306" name="inst_44B535AD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_floor" x="3503" y="139" name="inst_47E1214A" locked="0" code="" scaleX="0.5" scaleY="0.489361703395844" colour="4294967295" rotation="0"/>
-    <instance objName="obj_bobby" x="3840" y="-19" name="inst_AFCBE061" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_floor" x="3750" y="-64" name="inst_55198A25" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_floor" x="3900" y="-64" name="inst_66AAF5D6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_floor" x="3826" y="-64" name="inst_A7B491E6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_floor" x="3750" y="-60" name="inst_55198A25" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_floor" x="3900" y="-60" name="inst_66AAF5D6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_floor" x="3826" y="-60" name="inst_A7B491E6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="plats" x="300" y="270" w="240" h="72" xo="0" yo="334" id="10000007" name="inst_11160944" depth="1000000" locked="0" colour="4294967295" scaleX="-0.25" scaleY="1"/>
