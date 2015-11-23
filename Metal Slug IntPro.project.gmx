@@ -39,6 +39,8 @@
     <sprite>sprites\stone</sprite>
     <sprite>sprites\floor_inv</sprite>
     <sprite>sprites\bobby_mask</sprite>
+    <sprite>sprites\zombie_mask</sprite>
+    <sprite>sprites\bobby_face</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\ciudad</background>
@@ -65,6 +67,7 @@
     <object>objects\intro_control</object>
     <object>objects\darth_vader</object>
     <object>objects\supahman</object>
+    <object>objects\obj_wall_zombie</object>
   </objects>
   <timelines name="timelines">
     <timeline>timelines\tml_switch_stone</timeline>

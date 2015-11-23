@@ -111,15 +111,15 @@
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string>view_xview</string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string>view_yview</string>
           </argument>
           <argument>
             <kind>5</kind>
-            <sprite>-1</sprite>
+            <sprite>bobby_face</sprite>
           </argument>
         </arguments>
       </action>
@@ -139,11 +139,11 @@
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>view_xview+2</string>
+            <string>view_xview</string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>view_yview+33</string>
+            <string>view_yview+16</string>
           </argument>
           <argument>
             <kind>0</kind>
@@ -151,7 +151,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>view_yview+48</string>
+            <string>view_yview+31</string>
           </argument>
           <argument>
             <kind>4</kind>
