@@ -15,6 +15,7 @@
     <sound>sound\snd_explosion</sound>
     <sound>sound\snd_themesong</sound>
     <sound>sound\snd_intro</sound>
+    <sound>sound\snd_bobby_death</sound>
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\bobby_stand</sprite>
@@ -45,6 +46,7 @@
   <backgrounds name="background">
     <background>background\ciudad</background>
     <background>background\intro</background>
+    <background>background\plats</background>
   </backgrounds>
   <paths name="paths"/>
   <fonts name="fonts">
@@ -52,6 +54,7 @@
   </fonts>
   <objects name="objects">
     <object>objects\obj_bobby</object>
+    <object>objects\obj_bobby_die</object>
     <object>objects\obj_bullet</object>
     <object>objects\obj_zombie</object>
     <object>objects\obj_zombie_die</object>
@@ -68,6 +71,7 @@
     <object>objects\darth_vader</object>
     <object>objects\supahman</object>
     <object>objects\obj_wall_zombie</object>
+    <object>objects\obj_bobby_parent</object>
   </objects>
   <timelines name="timelines">
     <timeline>timelines\tml_switch_stone</timeline>

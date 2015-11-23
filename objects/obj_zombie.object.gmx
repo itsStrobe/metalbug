@@ -120,10 +120,10 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>var distance_y = obj_bobby.y - self.y;
+            <string>var distance_y = obj_bobby_parent.y - self.y;
 if(distance_y &lt; 0)
     distance_y *= -1; //Para cuando obj_bobby está en una plataforma inferior.
-var distance_x = self.x - obj_bobby.x;
+var distance_x = self.x - obj_bobby_parent.x;
 if(distance_y &lt;= 50) //Para checar si obj_bobby no está en una plataforma superior/inferior
 {
     if((distance_x &gt; 0) &amp;&amp; (distance_x &lt; 220)) // Sujeto a modificarse
@@ -1285,11 +1285,11 @@ else
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>var distance = self.x - obj_bobby.x;
+            <string>var distance = self.x - obj_bobby_parent.x;
 if(distance &gt; 0)
-    obj_bobby.repulsion = 0;
+    obj_bobby_parent.repulsion = 0;
 else
-    obj_bobby.repulsion = 1;
+    obj_bobby_parent.repulsion = 1;
         
 // repulsion = 0 indica que obj_bobby es repelido hacia la izquierda.
 // repulsion = 1 indica que obj_bobby es repelido hacia la derecha.    
