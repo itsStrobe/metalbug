@@ -42,6 +42,8 @@
     <sprite>sprites\bobby_mask</sprite>
     <sprite>sprites\zombie_mask</sprite>
     <sprite>sprites\bobby_face</sprite>
+    <sprite>sprites\sprt_metroid</sprite>
+    <sprite>sprites\sprt_metroid_angry</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\ciudad</background>
