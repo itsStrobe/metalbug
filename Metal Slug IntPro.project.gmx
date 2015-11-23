@@ -12,6 +12,9 @@
     <sound>sound\bobby_taunt</sound>
     <sound>sound\snd_stone</sound>
     <sound>sound\snd_zombie_scream</sound>
+    <sound>sound\snd_explosion</sound>
+    <sound>sound\snd_themesong</sound>
+    <sound>sound\snd_intro</sound>
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\bobby_stand</sprite>
@@ -56,11 +59,15 @@
     <object>objects\obj_stone</object>
     <object>objects\obj_floor</object>
     <object>objects\obj_control</object>
+    <object>objects\goku</object>
+    <object>objects\intro_bobby</object>
+    <object>objects\intro_control</object>
   </objects>
   <timelines name="timelines">
     <timeline>timelines\tml_switch_stone</timeline>
   </timelines>
   <rooms name="rooms">
+    <room>rooms\room1</room>
     <room>rooms\nivel1</room>
   </rooms>
   <help>
