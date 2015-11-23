@@ -42,6 +42,7 @@
   </sprites>
   <backgrounds name="background">
     <background>background\ciudad</background>
+    <background>background\intro</background>
   </backgrounds>
   <paths name="paths"/>
   <fonts name="fonts">
@@ -62,6 +63,8 @@
     <object>objects\goku</object>
     <object>objects\intro_bobby</object>
     <object>objects\intro_control</object>
+    <object>objects\darth_vader</object>
+    <object>objects\supahman</object>
   </objects>
   <timelines name="timelines">
     <timeline>timelines\tml_switch_stone</timeline>
