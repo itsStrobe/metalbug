@@ -43,6 +43,8 @@
     <sprite>sprites\zombie_mask</sprite>
     <sprite>sprites\bobby_face</sprite>
     <sprite>sprites\sprt_metroid</sprite>
+    <sprite>sprites\metroid_stby</sprite>
+    <sprite>sprites\metroid_stby_2</sprite>
     <sprite>sprites\sprt_metroid_angry</sprite>
     <sprite>sprites\door_cls_collision</sprite>
   </sprites>
@@ -51,7 +53,11 @@
     <background>background\intro</background>
     <background>background\plats</background>
   </backgrounds>
-  <paths name="paths"/>
+  <paths name="paths">
+    <path>paths\t1</path>
+    <path>paths\t2</path>
+    <path>paths\t3</path>
+  </paths>
   <fonts name="fonts">
     <font>fonts\Font</font>
   </fonts>
@@ -76,6 +82,11 @@
     <object>objects\obj_wall_zombie</object>
     <object>objects\obj_bobby_parent</object>
     <object>objects\obj_door_cls_col</object>
+    <object>objects\obj_metroid_t1</object>
+    <object>objects\obj_metroid_t2</object>
+    <object>objects\obj_metroid_t3</object>
+    <object>objects\obj_metroid_stby</object>
+    <object>objects\obj_metroid_stby_2</object>
   </objects>
   <timelines name="timelines">
     <timeline>timelines\tml_switch_stone</timeline>
