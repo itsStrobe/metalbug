@@ -44,6 +44,7 @@
     <sprite>sprites\bobby_face</sprite>
     <sprite>sprites\sprt_metroid</sprite>
     <sprite>sprites\sprt_metroid_angry</sprite>
+    <sprite>sprites\door_cls_collision</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\ciudad</background>
@@ -74,6 +75,7 @@
     <object>objects\supahman</object>
     <object>objects\obj_wall_zombie</object>
     <object>objects\obj_bobby_parent</object>
+    <object>objects\obj_door_cls_col</object>
   </objects>
   <timelines name="timelines">
     <timeline>timelines\tml_switch_stone</timeline>
