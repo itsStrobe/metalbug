@@ -47,6 +47,10 @@
     <sprite>sprites\metroid_stby_2</sprite>
     <sprite>sprites\sprt_metroid_angry</sprite>
     <sprite>sprites\door_cls_collision</sprite>
+    <sprite>sprites\sprt_metroid_laser</sprite>
+    <sprite>sprites\sprt_metroid_bullets</sprite>
+    <sprite>sprites\sprt_metroid_bullets_2</sprite>
+    <sprite>sprites\sprt_metroid_bullets_3</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\ciudad</background>
