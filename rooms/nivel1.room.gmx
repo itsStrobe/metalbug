@@ -192,10 +192,11 @@
     <instance objName="obj_zombie" x="4740" y="306" name="inst_EA4624F4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_zombie" x="4920" y="306" name="inst_F59438A7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_zombie" x="1500" y="270" name="inst_776BC134" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_bobby" x="3390" y="270" name="inst_04683282" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_button_off" x="3390" y="108" name="inst_1113F7E9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_floor" x="1980" y="314" name="inst_1335E49C" locked="0" code="" scaleX="1.45000004768372" scaleY="1.04255318641663" colour="4294967295" rotation="0"/>
     <instance objName="obj_floor" x="2099" y="245" name="inst_4BBD1CB9" locked="0" code="" scaleX="0.712499976158142" scaleY="0.361702114343643" colour="4294967295" rotation="0"/>
+    <instance objName="obj_bobby" x="90" y="270" name="inst_C748E263" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_metroid_t1" x="300" y="108" name="inst_BC4D8081" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="plats" x="300" y="270" w="240" h="72" xo="0" yo="334" id="10000007" name="inst_11160944" depth="1000000" locked="0" colour="4294967295" scaleX="-0.25" scaleY="1"/>
