@@ -49,6 +49,8 @@
     <background>background\ciudad</background>
     <background>background\intro</background>
     <background>background\plats</background>
+    <background>background\background1</background>
+    <background>background\background0</background>
   </backgrounds>
   <paths name="paths"/>
   <fonts name="fonts">
@@ -74,6 +76,7 @@
     <object>objects\supahman</object>
     <object>objects\obj_wall_zombie</object>
     <object>objects\obj_bobby_parent</object>
+    <object>objects\controlador_room_final_boss</object>
   </objects>
   <timelines name="timelines">
     <timeline>timelines\tml_switch_stone</timeline>
@@ -81,6 +84,7 @@
   <rooms name="rooms">
     <room>rooms\room1</room>
     <room>rooms\nivel1</room>
+    <room>rooms\nivel_final_boss</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
