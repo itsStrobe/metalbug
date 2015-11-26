@@ -16,6 +16,7 @@
     <sound>sound\snd_themesong</sound>
     <sound>sound\snd_intro</sound>
     <sound>sound\snd_bobby_death</sound>
+    <sound>sound\snd_the_rock_taunt</sound>
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\bobby_stand</sprite>
@@ -51,6 +52,11 @@
     <sprite>sprites\sprt_metroid_bullets</sprite>
     <sprite>sprites\sprt_metroid_bullets_2</sprite>
     <sprite>sprites\sprt_metroid_bullets_3</sprite>
+    <sprite>sprites\rolling_stone</sprite>
+    <sprite>sprites\the_rock</sprite>
+    <sprite>sprites\explosion</sprite>
+    <sprite>sprites\sprite36</sprite>
+    <sprite>sprites\sprt_taunt</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\ciudad</background>
@@ -94,14 +100,18 @@
     <object>objects\obj_metroid_bullets</object>
     <object>objects\obj_metroid_bullets_2</object>
     <object>objects\obj_metroid_bullets_3</object>
+    <object>objects\obj_the_rock</object>
+    <object>objects\obj_the_rock_launchable</object>
+    <object>objects\obj_the_rock_explosion</object>
+    <object>objects\obj_the_rock_taunt</object>
   </objects>
   <timelines name="timelines">
     <timeline>timelines\tml_switch_stone</timeline>
     <timeline>timelines\tml_metroid_t2</timeline>
   </timelines>
   <rooms name="rooms">
-    <room>rooms\room1</room>
     <room>rooms\nivel1</room>
+    <room>rooms\room1</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
