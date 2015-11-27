@@ -31,7 +31,7 @@
     <yoffset>0</yoffset>
   </makerSettings>
   <backgrounds>
-    <background visible="-1" foreground="0" name="intro" x="0" y="0" htiled="0" vtiled="0" hspeed="0" vspeed="0" stretch="0"/>
+    <background visible="-1" foreground="0" name="intro" x="0" y="0" htiled="0" vtiled="0" hspeed="0" vspeed="0" stretch="-1"/>
     <background visible="0" foreground="0" name="" x="0" y="0" htiled="-1" vtiled="-1" hspeed="0" vspeed="0" stretch="0"/>
     <background visible="0" foreground="0" name="" x="0" y="0" htiled="-1" vtiled="-1" hspeed="0" vspeed="0" stretch="0"/>
     <background visible="0" foreground="0" name="" x="0" y="0" htiled="-1" vtiled="-1" hspeed="0" vspeed="0" stretch="0"/>
@@ -52,10 +52,10 @@
   </views>
   <instances>
     <instance objName="intro_control" x="0" y="0" name="inst_6A59BAC7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="goku" x="32" y="288" name="inst_DE9085CB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="intro_bobby" x="56" y="195" name="inst_A616EF67" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="darth_vader" x="291" y="219" name="inst_6683D7FD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="supahman" x="299" y="299" name="inst_0EF4A79F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="goku" x="67" y="529" name="inst_DE9085CB" locked="0" code="" scaleX="1.93617022037506" scaleY="1.81818187236786" colour="4294967295" rotation="0"/>
+    <instance objName="intro_bobby" x="75" y="373" name="inst_A616EF67" locked="0" code="" scaleX="1.32558143138886" scaleY="1.4237288236618" colour="4294967295" rotation="0"/>
+    <instance objName="darth_vader" x="466" y="405" name="inst_6683D7FD" locked="0" code="" scaleX="2.08333325386047" scaleY="1.72727274894714" colour="4294967295" rotation="0"/>
+    <instance objName="supahman" x="480" y="561" name="inst_0EF4A79F" locked="0" code="" scaleX="1.42553186416626" scaleY="1.77358496189117" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
