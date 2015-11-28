@@ -53,7 +53,7 @@
             <kind>1</kind>
             <string>//cuando llegue a la posicion inicial del siguiente path, destruirse
 
-if((self.x==176)&amp;&amp;(self.y==48))
+if((self.x&gt;460)&amp;&amp;(self.x&lt;480)&amp;&amp;(self.y&gt;118)&amp;&amp;(self.y&lt;138))
     destroy = 1;
 </string>
           </argument>
@@ -61,13 +61,13 @@ if((self.x==176)&amp;&amp;(self.y==48))
       </action>
       <action>
         <libid>1</libid>
-        <id>120</id>
+        <id>105</id>
         <kind>0</kind>
         <userelative>-1</userelative>
         <isquestion>0</isquestion>
         <useapplyto>-1</useapplyto>
         <exetype>1</exetype>
-        <functionname>action_linear_step</functionname>
+        <functionname>action_move_point</functionname>
         <codestring></codestring>
         <whoName>self</whoName>
         <relative>0</relative>
@@ -75,19 +75,15 @@ if((self.x==176)&amp;&amp;(self.y==48))
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>176</string>
+            <string>470</string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>48</string>
+            <string>128</string>
           </argument>
           <argument>
             <kind>0</kind>
             <string>10</string>
-          </argument>
-          <argument>
-            <kind>4</kind>
-            <string>0</string>
           </argument>
         </arguments>
       </action>
@@ -144,7 +140,7 @@ if((self.x==176)&amp;&amp;(self.y==48))
         <functionname>action_create_object</functionname>
         <codestring></codestring>
         <whoName>self</whoName>
-        <relative>-1</relative>
+        <relative>0</relative>
         <isnot>0</isnot>
         <arguments>
           <argument>
@@ -153,11 +149,11 @@ if((self.x==176)&amp;&amp;(self.y==48))
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string>470</string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string>128</string>
           </argument>
         </arguments>
       </action>

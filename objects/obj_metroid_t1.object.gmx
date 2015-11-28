@@ -5,7 +5,7 @@
   <visible>-1</visible>
   <depth>0</depth>
   <persistent>0</persistent>
-  <parentName>self</parentName>
+  <parentName>&lt;undefined&gt;</parentName>
   <maskName>&lt;undefined&gt;</maskName>
   <events>
     <event eventtype="0" enumb="0">
@@ -81,7 +81,7 @@
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>40</string>
+            <string>20</string>
           </argument>
           <argument>
             <kind>4</kind>
@@ -105,7 +105,7 @@
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>70</string>
+            <string>50</string>
           </argument>
           <argument>
             <kind>4</kind>
@@ -189,7 +189,7 @@
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>100</string>
+            <string>50</string>
           </argument>
           <argument>
             <kind>4</kind>
@@ -243,7 +243,7 @@
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>40</string>
+            <string>20</string>
           </argument>
           <argument>
             <kind>4</kind>
