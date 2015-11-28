@@ -104,10 +104,12 @@
     <object>objects\obj_the_rock_launchable</object>
     <object>objects\obj_the_rock_explosion</object>
     <object>objects\obj_the_rock_taunt</object>
+    <object>objects\obj_metroid_laser</object>
   </objects>
   <timelines name="timelines">
     <timeline>timelines\tml_switch_stone</timeline>
     <timeline>timelines\tml_metroid_t2</timeline>
+    <timeline>timelines\tml_metroid_t3</timeline>
   </timelines>
   <rooms name="rooms">
     <room>rooms\nivel1</room>

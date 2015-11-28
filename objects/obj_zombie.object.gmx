@@ -1285,14 +1285,15 @@ else
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>var distance = self.x - obj_bobby_parent.x;
+            <string>/*var distance = self.x - obj_bobby_parent.x;
 if(distance &gt; 0)
     obj_bobby_parent.repulsion = 0;
 else
     obj_bobby_parent.repulsion = 1;
-        
+*/
+    
 // repulsion = 0 indica que obj_bobby es repelido hacia la izquierda.
-// repulsion = 1 indica que obj_bobby es repelido hacia la derecha.    
+// repulsion = 1 indica que obj_bobby es repelido hacia la derecha.
 </string>
           </argument>
         </arguments>
