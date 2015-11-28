@@ -57,6 +57,7 @@
     <sprite>sprites\explosion</sprite>
     <sprite>sprites\sprite36</sprite>
     <sprite>sprites\sprt_taunt</sprite>
+    <sprite>sprites\bomb_explosion</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\ciudad</background>
@@ -105,6 +106,7 @@
     <object>objects\obj_the_rock_explosion</object>
     <object>objects\obj_the_rock_taunt</object>
     <object>objects\obj_metroid_laser</object>
+    <object>objects\obj_bomb_explosion</object>
   </objects>
   <timelines name="timelines">
     <timeline>timelines\tml_switch_stone</timeline>
