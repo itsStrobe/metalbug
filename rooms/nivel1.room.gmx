@@ -311,8 +311,8 @@
     <instance objName="obj_floor" x="7821" y="486" name="inst_58338322" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_floor" x="7893" y="529" name="inst_29D98072" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_floor" x="7941" y="529" name="inst_8FA29053" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_bobby" x="9750" y="522" name="inst_6AD96A04" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_pass_level2" x="10870" y="3" name="inst_DC2447F1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_bobby" x="10140" y="306" name="inst_F4836AD0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="plats" x="870" y="432" w="240" h="72" xo="0" yo="334" id="10000008" name="inst_B485894B" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="0.5"/>
