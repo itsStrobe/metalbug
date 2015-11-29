@@ -20,6 +20,9 @@
     <sound>sound\snd_metroid_cry</sound>
     <sound>sound\snd_bossBattle</sound>
     <sound>sound\snd_victory</sound>
+    <sound>sound\snd_credits</sound>
+    <sound>sound\snd_coin1</sound>
+    <sound>sound\snd_coin2</sound>
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\bobby_stand</sprite>
@@ -66,6 +69,9 @@
     <sprite>sprites\bossTxt</sprite>
     <sprite>sprites\scoreTxt</sprite>
     <sprite>sprites\ending</sprite>
+    <sprite>sprites\sprt_credits</sprite>
+    <sprite>sprites\sprt_coins</sprite>
+    <sprite>sprites\sprt_coins2</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\ciudad</background>
@@ -73,6 +79,7 @@
     <background>background\plats</background>
     <background>background\level2_back1</background>
     <background>background\level2_back2</background>
+    <background>background\game_over</background>
   </backgrounds>
   <paths name="paths">
     <path>paths\t1</path>
@@ -123,6 +130,12 @@
     <object>objects\obj_metroid_fadeIn</object>
     <object>objects\obj_metroid_die</object>
     <object>objects\obj_ending</object>
+    <object>objects\obj_credits</object>
+    <object>objects\obj_continue</object>
+    <object>objects\obj_quit</object>
+    <object>objects\obj_control_credits</object>
+    <object>objects\obj_coins</object>
+    <object>objects\obj_coins2</object>
   </objects>
   <timelines name="timelines">
     <timeline>timelines\tml_switch_stone</timeline>
@@ -131,10 +144,11 @@
     <timeline>timelines\tml_metroid_die</timeline>
   </timelines>
   <rooms name="rooms">
+    <room>rooms\room1</room>
     <room>rooms\nivel1</room>
     <room>rooms\nivel2</room>
-    <room>rooms\room1</room>
-    <room>rooms\room3</room>
+    <room>rooms\credits</room>
+    <room>rooms\room4</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>

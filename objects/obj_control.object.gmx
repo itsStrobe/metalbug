@@ -315,7 +315,7 @@
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>obj_bobby.var_stone</string>
+            <string>global.var_stone</string>
           </argument>
           <argument>
             <kind>0</kind>

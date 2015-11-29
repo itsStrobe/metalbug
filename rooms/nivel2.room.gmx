@@ -62,6 +62,7 @@
     <instance objName="obj_floor" x="156" y="237" name="inst_D8EE6697" locked="0" code="" scaleX="1.29999995231628" scaleY="0.510638296604156" colour="4294967295" rotation="0"/>
     <instance objName="obj_floor" x="332" y="140" name="inst_B14CE100" locked="0" code="" scaleX="1.29999995231628" scaleY="0.510638296604156" colour="4294967295" rotation="0"/>
     <instance objName="obj_control2" x="32" y="0" name="inst_83461D47" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ending" x="768" y="0" name="inst_731C43AA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="plats" x="99" y="416" w="240" h="72" xo="0" yo="262" id="10000132" name="inst_498E349C" depth="1000000" locked="0" colour="4286611584" scaleX="0.5" scaleY="0.5"/>
