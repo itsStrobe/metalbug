@@ -312,7 +312,6 @@
     <instance objName="obj_floor" x="7893" y="529" name="inst_29D98072" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_floor" x="7941" y="529" name="inst_8FA29053" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_pass_level2" x="10870" y="3" name="inst_DC2447F1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_bobby" x="90" y="486" name="inst_63FA2668" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_coins" x="870" y="522" name="inst_96D1CF4D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_coins" x="900" y="522" name="inst_BC4B3625" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_coins" x="930" y="522" name="inst_E89534B9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -476,6 +475,7 @@
     <instance objName="obj_coins" x="5160" y="90" name="inst_2BBA0255" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_coins" x="5160" y="54" name="inst_CAD9FB41" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_coins" x="5160" y="72" name="inst_AF9E01B3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_bobby" x="90" y="522" name="inst_599AA3AB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="plats" x="870" y="432" w="240" h="72" xo="0" yo="334" id="10000008" name="inst_B485894B" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="0.5"/>

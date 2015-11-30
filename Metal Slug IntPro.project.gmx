@@ -3,6 +3,7 @@
   <Configs name="configs">
     <Config>Configs\Default</Config>
   </Configs>
+  <datafiles number="1" name="datafiles"/>
   <NewExtensions/>
   <sounds name="sound">
     <sound>sound\gunshot</sound>
@@ -80,6 +81,7 @@
     <background>background\level2_back1</background>
     <background>background\level2_back2</background>
     <background>background\game_over</background>
+    <background>background\high_scores</background>
   </backgrounds>
   <paths name="paths">
     <path>paths\t1</path>
@@ -88,6 +90,7 @@
   </paths>
   <fonts name="fonts">
     <font>fonts\Font</font>
+    <font>fonts\Font2</font>
   </fonts>
   <objects name="objects">
     <object>objects\obj_bobby</object>
@@ -136,6 +139,7 @@
     <object>objects\obj_control_credits</object>
     <object>objects\obj_coins</object>
     <object>objects\obj_coins2</object>
+    <object>objects\obj_high_scores</object>
   </objects>
   <timelines name="timelines">
     <timeline>timelines\tml_switch_stone</timeline>
@@ -144,10 +148,11 @@
     <timeline>timelines\tml_metroid_die</timeline>
   </timelines>
   <rooms name="rooms">
-    <room>rooms\room1</room>
+    <room>rooms\MainMenu</room>
     <room>rooms\nivel1</room>
     <room>rooms\nivel2</room>
     <room>rooms\credits</room>
+    <room>rooms\Highscores</room>
     <room>rooms\room4</room>
   </rooms>
   <help>
