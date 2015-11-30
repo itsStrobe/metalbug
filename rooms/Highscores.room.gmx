@@ -52,6 +52,7 @@
   </views>
   <instances>
     <instance objName="obj_high_scores" x="0" y="0" name="inst_071F6E71" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_black_image" x="42" y="46" name="inst_DE3C2226" locked="0" code="" scaleX="0.148325353860855" scaleY="1.25" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

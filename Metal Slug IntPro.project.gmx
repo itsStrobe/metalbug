@@ -73,6 +73,8 @@
     <sprite>sprites\sprt_credits</sprite>
     <sprite>sprites\sprt_coins</sprite>
     <sprite>sprites\sprt_coins2</sprite>
+    <sprite>sprites\spacebar_text</sprite>
+    <sprite>sprites\black_image</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\ciudad</background>
@@ -140,6 +142,8 @@
     <object>objects\obj_coins</object>
     <object>objects\obj_coins2</object>
     <object>objects\obj_high_scores</object>
+    <object>objects\obj_spacebar_text</object>
+    <object>objects\obj_black_image</object>
   </objects>
   <timelines name="timelines">
     <timeline>timelines\tml_switch_stone</timeline>

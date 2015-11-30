@@ -53,6 +53,7 @@
   <instances>
     <instance objName="obj_continue" x="320" y="480" name="inst_4D03D9AA" locked="0" code="" scaleX="3.5" scaleY="1.29268288612366" colour="4294967295" rotation="0"/>
     <instance objName="obj_quit" x="512" y="480" name="inst_8807808F" locked="0" code="" scaleX="2.40909099578857" scaleY="1.07272732257843" colour="4294967295" rotation="0"/>
+    <instance objName="obj_black_image" x="42" y="46" name="inst_BE845E63" locked="0" code="" scaleX="0.148325353860855" scaleY="1.25" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
