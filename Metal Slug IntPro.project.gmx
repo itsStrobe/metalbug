@@ -75,6 +75,7 @@
     <sprite>sprites\sprt_coins2</sprite>
     <sprite>sprites\spacebar_text</sprite>
     <sprite>sprites\black_image</sprite>
+    <sprite>sprites\truck</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\ciudad</background>
@@ -84,6 +85,7 @@
     <background>background\level2_back2</background>
     <background>background\game_over</background>
     <background>background\high_scores</background>
+    <background>background\background7</background>
   </backgrounds>
   <paths name="paths">
     <path>paths\t1</path>
@@ -144,6 +146,7 @@
     <object>objects\obj_high_scores</object>
     <object>objects\obj_spacebar_text</object>
     <object>objects\obj_black_image</object>
+    <object>objects\obj_truck</object>
   </objects>
   <timelines name="timelines">
     <timeline>timelines\tml_switch_stone</timeline>
